@@ -213,6 +213,4 @@ Created in 3032, Jamie is a time-traveling android initially programmed to destr
 
 * Rima Hiraoka: https://github.com/Sobacha
 
-![Structure Overview](./images/image1.jpeg)
-
 Software developer who is passionate about solving problems that people experience and believes in the power of software development to bring a solution to people. I'm a detail-oriented person so I particulary enjoy testing. I also like this feeling of achievement when my code passes all tests.
